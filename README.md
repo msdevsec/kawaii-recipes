@@ -1,7 +1,7 @@
 # Recipes List
 
 ## Links
-- [Try Recipes List here!](https://msdevsec.github.io/kawaii-recipes)
+- [Try Recipes List here!](https://msdevsec.github.io/kawaii-recipes/)
 
 - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
