@@ -1,0 +1,44 @@
+
+h1 {
+    text-align:center;
+    font-family: 'Overlock SC', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+	font-family: 'Overlock SC', sans-serif;
+    background: linear-gradient(180deg, #CBDBE4, #affae4);
+    height: 100vh;
+}
+
+.block {
+    display: block;
+    margin:auto;
+    border-radius: 25px;  /*  rounded corners */
+    width: min(70%, 600px);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.479);
+}
+
+#contents {
+    margin-top: 2rem;
+    height: 300px;
+    border: 1.5px solid black;
+    text-align: left;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.recipe {
+    padding: 5px;
+    font-size: 1.5rem;
+	color:lightpink
+}
+
+a {
+    color: Darkblue;
+    text-decoration: none;
+}
